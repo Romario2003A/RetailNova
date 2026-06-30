@@ -1,0 +1,7 @@
+campania_id,nombre_campania,canal,fecha_inicio,fecha_fin,presupuesto,objetivo
+CMP001,Hot Sale Peru,Email,2026-05-01,2026-05-07,8500,Conversion
+CMP002,Semana Tecnologia,Redes Sociales,2026-05-10,2026-05-17,12000,Ventas
+CMP003,Hogar Inteligente,Buscadores,2026-05-18,2026-05-25,9500,Conversion
+CMP004,Clientes VIP,Push,2026-06-01,2026-06-05,3500,Retencion
+CMP005,Renueva tu laptop,Redes Sociales,2026-06-08,2026-06-15,11000,Ventas
+CMP006,Moda Express,Email,2026-06-16,2026-06-22,6000,Conversion
