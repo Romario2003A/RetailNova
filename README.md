@@ -15,13 +15,3 @@ Proyecto final de Base de Datos 2 basado en una empresa ficticia de retail y com
 
 - `RetailNova_OLTP`: base transaccional para clientes, pedidos, productos, pagos e inventario.
 - `RetailNova_DWH`: Data Warehouse para analisis, Power BI e indicadores.
-
-## Demo recomendada
-
-Para exponer el proyecto en clase, usar:
-
-```text
-sql/05_demo_exposicion.sql
-```
-
-Ese archivo muestra consultas de volumen, modelo relacional, optimizacion, seguridad, auditoria, Data Warehouse y eventos digitales.
